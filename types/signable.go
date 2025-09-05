@@ -2,6 +2,7 @@ package types
 
 import (
 	"github.com/cometbft/cometbft/crypto/dilithium"
+	"github.com/cometbft/cometbft/crypto/ed25519"
 	tmmath "github.com/cometbft/cometbft/libs/math"
 )
 
