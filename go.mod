@@ -1,4 +1,5 @@
-module github.com/cometbft/cometbft
+module github.com/DSHIVAAY-23/cometbft-quantum-resistant
+
 
 go 1.22.11
 
